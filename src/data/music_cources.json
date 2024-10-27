@@ -1,0 +1,57 @@
+{
+    "courses": [
+        
+            {
+              "id": 1,
+              "title": "Introduction to Programming",
+              "slug": "introduction-to-programming",
+              "description": "A comprehensive course for beginners to learn programming fundamentals.",
+              "price": 49.99,
+              "instructor": "Jane Doe",
+              "isFeatured": true,
+              "image": "https://example.com/images/introduction-to-programming.jpg"
+            },
+            {
+              "id": 2,
+              "title": "Advanced JavaScript",
+              "slug": "advanced-javascript",
+              "description": "Deep dive into JavaScript for experienced developers looking to enhance their skills.",
+              "price": 79.99,
+              "instructor": "John Smith",
+              "isFeatured": false,
+              "image": "https://example.com/images/advanced-javascript.jpg"
+            },
+            {
+              "id": 3,
+              "title": "Data Science with Python",
+              "slug": "data-science-with-python",
+              "description": "Learn how to analyze data and build machine learning models using Python.",
+              "price": 89.99,
+              "instructor": "Alice Johnson",
+              "isFeatured": true,
+              "image": "https://example.com/images/data-science-with-python.jpg"
+            },
+            {
+              "id": 4,
+              "title": "Web Development Bootcamp",
+              "slug": "web-development-bootcamp",
+              "description": "Become a full-stack web developer with this intensive bootcamp.",
+              "price": 99.99,
+              "instructor": "Michael Brown",
+              "isFeatured": false,
+              "image": "https://example.com/images/web-development-bootcamp.jpg"
+            },
+            {
+              "id": 5,
+              "title": "Graphic Design Basics",
+              "slug": "graphic-design-basics",
+              "description": "An introductory course on graphic design principles and tools.",
+              "price": 39.99,
+              "instructor": "Emily Davis",
+              "isFeatured": true,
+              "image": "https://example.com/images/graphic-design-basics.jpg"
+            }
+          
+          
+    ]
+}
